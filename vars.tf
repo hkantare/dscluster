@@ -1,5 +1,5 @@
 
 variable "cluster" {
   description = "name of cluster"
-  default = "mycluster"
+  default = "cluster03769135"
 }
